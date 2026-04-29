@@ -27,7 +27,7 @@ If you choose not to implement something, please describe what you would like to
 
 ## Constraints
 
-* Aim to spend no more than **4–6 hours** on this task over the course of the week you have.
+* Aim to spend no more than **a few hours** on this task over the course of the week you have.
 * You may limit scraping to just a few categories or ~**50–100 products per site** to save time.
 * Focus on **clarity and correctness** over completeness of the task.
 
